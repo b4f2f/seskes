@@ -15,7 +15,7 @@ r"""
                 | |_) || (_) || |_
                 |____/  \___/  \__|
 
-telegramChannel - t.me/IndianBots
+Developer - t.me/b4f2f
 initialRelease - 21/06/21
 """
 
@@ -113,13 +113,13 @@ def extractAudio(_, message):
                 [
                     InlineKeyboardButton(
                         text="🖥Channel💺",
-                        url="https://t.me/IndianBots",
+                        url="https://t.me/chillgng",
                         ),
                 ],
                 [
                     InlineKeyboardButton(
                         text="🧬Group🚦",
-                        url="https://t.me/IndianBotsChat",
+                        url="https://t.me/chpgenclikresmi",
                     ),
                 ]
             ])
@@ -182,13 +182,13 @@ def startCommand(_, message):
                 [
                     InlineKeyboardButton(
                         text="🖥Channel💺",
-                        url="https://t.me/IndianBots",
+                        url="https://t.me/chillgng",
                         ),
                 ],
                 [
                     InlineKeyboardButton(
                         text="🧬Group🚦",
-                        url="https://t.me/IndianBotsChat",
+                        url="https://t.me/chpgenclikresmi",
                     ),
                 ]
             ])
@@ -197,7 +197,7 @@ def startCommand(_, message):
         message.chat.id,
         f"Hoi **{message.from_user.first_name}**!\n"
         f"I hope you are pushing healty through the `Covid19 Pandemic.`\n"
-        f"I am a **Audio Extractor Bot** made by **@Akash_am1**, i extract audio from videos and send it to you.\n"
+        f"I am a **Audio Extractor Bot** made by **@b4f2f**, i extract audio from videos and send it to you.\n"
         f"For help - /commands\n"
         f"Acknowledgment -\n\n"
         f"[Pyrogram](https://github.com/pyrogram/pyrogram)\n"
@@ -221,13 +221,13 @@ def source_or_github(_, message):
                 [
                     InlineKeyboardButton(
                         text="🖥Channel💺",
-                        url="https://t.me/IndianBots",
+                        url="https://t.me/chillgng",
                         ),
                 ],
                 [
                     InlineKeyboardButton(
                         text="🧬Group🚦",
-                        url="https://t.me/IndianBotsChat",
+                        url="https://t.me/chpgenclikresmi",
                     ),
                 ]
             ])
@@ -252,13 +252,13 @@ def commands(_, message):
                 [
                     InlineKeyboardButton(
                         text="🖥Channel💺",
-                        url="https://t.me/IndianBots",
+                        url="https://t.me/chillgng",
                         ),
                 ],
                 [
                     InlineKeyboardButton(
                         text="🧬Group🚦",
-                        url="https://t.me/IndianBotsChat",
+                        url="https://t.me/chpgenclikresmi",
                     ),
                 ]
             ])
@@ -288,13 +288,13 @@ def commands(_, message):
                 [
                     InlineKeyboardButton(
                         text="🖥Channel💺",
-                        url="https://t.me/IndianBots",
+                        url="https://t.me/chillgng",
                         ),
                 ],
                 [
                     InlineKeyboardButton(
                         text="🧬Group🚦",
-                        url="https://t.me/IndianBotsChat",
+                        url="https://t.me/chpgenclikresmi",
                     ),
                 ]
             ])
