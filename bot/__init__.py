@@ -15,7 +15,7 @@ r"""
                 | |_) || (_) || |_
                 |____/  \___/  \__|
 
-telegramChannel - t.me/IndianBots
+Developer - t.me/b4f2f
 initialRelease - 21/06/21
 """
 
